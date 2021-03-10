@@ -21,7 +21,7 @@
 **Baneo** Banea los numeros de whatsapp de personas molestosas solo esta configurado para el salvador
 
 
-## Distribuciones compatibles con encriptador:
+## Distribuciones compatibles con BANEO WHATSAPP:
 
 | Distribución |   Estado      |
 |--------------|---------------| 
