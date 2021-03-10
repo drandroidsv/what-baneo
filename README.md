@@ -36,5 +36,7 @@
 
 
 # Instalacion
+</p>
 chmod +x BANEO.sh
+</p>
 python BANEO.sh
