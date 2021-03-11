@@ -36,7 +36,10 @@
 
 
 # Instalacion
+cd what-baneo
 </p>
-chmod +x BANEO.sh
+chmod +x baneo.sh
 </p>
-python BANEO.sh
+chmod 7777 dato.txt
+</p>
+python baneo.sh
